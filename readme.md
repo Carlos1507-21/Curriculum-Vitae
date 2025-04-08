@@ -1,2 +1,2 @@
-Desafio-6
-![fork1](<assets/imgs/Fork Carrillo993.png>)
+Entrega del Desafio-6 punto 4
+![Imagen de fork1](<assets/imgs/Fork Carrillo993.png>)

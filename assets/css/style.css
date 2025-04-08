@@ -7,3 +7,31 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* Solo aplica estilos a la página del portafolio */
+.portafolio-page .card {
+  background-color: #e9ecef; 
+  border-radius: 10px;        
+  height: 100%;
+}
+
+.portafolio-page .card img {
+  object-fit: cover;
+  height: 150px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.portafolio-page .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.portafolio-page .row .col-md-6 {
+  display: flex;
+}
+
+.portafolio-page .card {
+  flex: 1;
+}

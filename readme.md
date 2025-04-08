@@ -1,2 +1,2 @@
-Entrega Desafio-6
-![Fork1](< "Agreg/imgs/Fork_Carrillo993.png>)
+Desafio-6
+![fork1](<assets/imgs/Fork Carrillo993.png>)
